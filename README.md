@@ -17,15 +17,15 @@ Department of Electrical and Electronic Engineering</br>
 
 <h3 align="center">🟦Tech Stack🟦</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp</br>
-<img src="https://img.shields.io/badge/csharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp</br>
+<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/csharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp
 
 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp</br>
 
-<img src="https://img.shields.io/badge/oracle-#80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp</br>
 
