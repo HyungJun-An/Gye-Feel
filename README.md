@@ -3,6 +3,10 @@
 Code Name :   G-Y-E-F-E-E-l 👨‍🚀</br>
 </div>
 
+<h3 align="center">💻백준💻</h3>
+<div align="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wns1265" alt="solved.ac 프로필">
+</div>
 <h3 align="center">🟨Major🟨</h3>
 <div align="center">
 Hansung University, Seoul, Republic of Korea</br>
@@ -13,9 +17,6 @@ Department of Electrical and Electronic Engineering</br>
 <div align="center">
 ~ING</br>
 정보처리기사 필기 (2024.03.13)</br>
-</div>
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wns1265" alt="solved.ac 프로필">
 </div>      
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp
