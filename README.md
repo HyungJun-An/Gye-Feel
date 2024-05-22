@@ -5,7 +5,7 @@ Code Name :   G-Y-E-F-E-E-l 👨‍🚀</br>
 
 <h3 align="center">💻백준💻</h3>
 <div align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wns1265" alt="solved.ac 프로필">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wns1265" alt="solved.ac wns1265">
 </div>
 <h3 align="center">🟨Major🟨</h3>
 <div align="center">
