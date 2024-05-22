@@ -14,8 +14,7 @@ Department of Electrical and Electronic Engineering</br>
 ~ING</br>
 정보처리기사 필기 (2024.03.13)</br>
 </div>
-
-<h3 align="center">🟦Tech Stack🟦</h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)<h3 align="center">🟦Tech Stack🟦</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/csharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp
