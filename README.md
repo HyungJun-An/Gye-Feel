@@ -14,7 +14,16 @@ Department of Electrical and Electronic Engineering</br>
 ~ING</br>
 정보처리기사 필기 (2024.03.13)</br>
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wns1265)](https://solved.ac/wns1265)<h3 align="center">🟦Tech Stack🟦</h3>
+![HyungJun-An's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=dark)   
+![HyungJun-An's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=radical)  
+![HyungJun-An's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=merko)  
+![HyungJun-An's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=gruvbox)  
+![HyungJun-An's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=tokyonight)  
+![HyungJun-An's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=onedark)  
+![HyungJun-An's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=cobalt)  
+![HyungJun-An's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=synthwave)  
+![HyungJun-An's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=highcontrast)  
+![HyungJun-An's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=dracula)
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/csharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp
